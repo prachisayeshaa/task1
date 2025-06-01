@@ -1,0 +1,12 @@
+[
+  {
+    "device_id": "A100",
+    "timestamp": 1679274045123,
+    "value": 25.5
+  },
+  {
+    "device_id": "A100",
+    "timestamp": 1679299845123,
+    "value": 25.5
+  }
+]
